@@ -1,9 +1,11 @@
 # Parse-Input-Files
 This program parses input string files delimited by a comma, pipe, or spaces.
 
-This program can be tested here: https://repl.it/Cev5/46
+This was a bonus challenge problem that was assigned to me-- it was extremely rewarding to figure it out! The program can be tested here: https://repl.it/Cev5/46
 
-This was a bonus challenge problem assigned during the Fullstack Academy Bootcamp Prep course. It has three types of string inputs, with different delimiters: a pipe (‘|’), a comma, or a space. The aim of the program is to parse, sort, and alter the strings according to specific instructions.
+ABOUT
+
+This program takes three input files each with string inputs that contain different delimiters: a pipe (‘|’), a comma, or a space. The aim of the program is to parse, sort, and alter the strings according to specific output instructions found below the input files.
 
 INPUT FILES:
 
